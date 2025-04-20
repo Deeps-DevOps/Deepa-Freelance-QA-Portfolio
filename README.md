@@ -17,7 +17,7 @@
 ### 1. Hybrid Automation Framework  
 - **Tech Stack:** Selenium + Python + Pytest  
 - **Features:** Parallel execution, HTML reports, Screenshots, Logging  
-- 🔗 https://github.com/Deeps-DevOps/Deepa-Freelance-QA-Portfolio
+- 🔗 https://github.com/Deeps-DevOps/ecommerce-app-ui-automation-selenium-pytest
 
 ---
 
